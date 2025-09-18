@@ -9,7 +9,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          <h1>🎬 Movie Database</h1>
+          <h1> Movie Database</h1>
         </header>
         <main>
           <Switch>
